@@ -29,12 +29,6 @@
       "value": "Tất cả"
     }
   ],
-  "label.all-events": [
-    {
-      "type": 0,
-      "value": "Tất cả sự kiện"
-    }
-  ],
   "label.all-time": [
     {
       "type": 0,
@@ -237,6 +231,12 @@
     {
       "type": 0,
       "value": "Mật khẩu mới"
+    }
+  ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
     }
   ],
   "label.owner": [
@@ -461,6 +461,12 @@
     {
       "type": 0,
       "value": "Tất cả các dữ liệu liên quan cũng sẽ bị xoá."
+    }
+  ],
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
     }
   ],
   "message.failure": [
@@ -715,12 +721,6 @@
       "value": "Kết hợp"
     }
   ],
-  "metrics.filter.domain-only": [
-    {
-      "type": 0,
-      "value": "Chỉ tên miền"
-    }
-  ],
   "metrics.filter.raw": [
     {
       "type": 0,
@@ -751,10 +751,22 @@
       "value": "Trang"
     }
   ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
   "metrics.referrers": [
     {
       "type": 0,
       "value": "Liên kết giới thiệu"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
     }
   ],
   "metrics.unique-visitors": [

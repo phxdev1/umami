@@ -29,12 +29,6 @@
       "value": "همه"
     }
   ],
-  "label.all-events": [
-    {
-      "type": 0,
-      "value": "همه‌ی رویدادها"
-    }
-  ],
   "label.all-time": [
     {
       "type": 0,
@@ -245,6 +239,12 @@
     {
       "type": 0,
       "value": "رمز جدید"
+    }
+  ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
     }
   ],
   "label.owner": [
@@ -469,6 +469,12 @@
     {
       "type": 0,
       "value": "همه‌ی داده‌های مرتبط هم حذف خواهد شد."
+    }
+  ],
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
     }
   ],
   "message.failure": [
@@ -715,12 +721,6 @@
       "value": "ترکیب شده"
     }
   ],
-  "metrics.filter.domain-only": [
-    {
-      "type": 0,
-      "value": "فقط دامنه"
-    }
-  ],
   "metrics.filter.raw": [
     {
       "type": 0,
@@ -751,10 +751,22 @@
       "value": "صفحه‌ها"
     }
   ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
   "metrics.referrers": [
     {
       "type": 0,
       "value": "ارجاع دهندگان"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
     }
   ],
   "metrics.unique-visitors": [
